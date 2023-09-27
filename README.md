@@ -1,6 +1,10 @@
+
 # TurboPaint
-Paint is best !
+Paint is best !  
 
-EXTRAPAINT --> Louis
+## Collaborateurs
+EXTRAPAINT --> Louis  
+SUPERPAINT --> Lucie  
 
-SUPERPAINT --> Lucie
+## Collections
+Kung Fu Panda

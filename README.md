@@ -7,5 +7,5 @@ EXTRAPAINT --> Louis
 SUPERPAINT --> Lucie  
 
 ## Collections
-Kung Fu Panda
+Kung Fu Panda  
 Bob l'éponge
